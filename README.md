@@ -1,3 +1,4 @@
 # Text-Sequence-Prediction-in-Novels
 
-ttic31210_hw1
+stat27725_hw6 & ttic31210_hw1
+
